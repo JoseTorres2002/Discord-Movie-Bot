@@ -33,12 +33,10 @@ Before running the bot, you will need to create two tokens:
 1. **Download and unzip the project folder**  
    If you downloaded the project as a ZIP from GitHub, unzip it to a folder on your computer, for example, `MovieBot`.
 
-2. **In the project folder, create a file named `.env` and add
-replacing the placeholders with your actual tokens:**  
-
-```env
-DISCORD_TOKEN=your_discord_bot_token_here
-TMDB_API_KEY=your_tmdb_api_key_here
+2. **In the project folder, create a file named `.env` and add  the following text replacing the placeholders with your actual tokens:**
+   ```env
+   DISCORD_TOKEN=your_discord_bot_token_here
+   TMDB_API_KEY=your_tmdb_api_key_here
 
 3. **Open Command Prompt (Windows) or Terminal (Mac/Linux)**  
    - On **Windows**: Press `Win + R`, type `cmd`, and press Enter.  
