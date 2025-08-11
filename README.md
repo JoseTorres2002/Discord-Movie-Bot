@@ -37,21 +37,19 @@ Before running the bot, you will need to create two tokens:
    ```env
    DISCORD_TOKEN=your_discord_bot_token_here
    TMDB_API_KEY=your_tmdb_api_key_here
-
-3. **Open Command Prompt (Windows) or Terminal (Mac/Linux)**  
    
-
-4. **Navigate to the project folder**  
+3. **Open Command Prompt (Windows) or Terminal (Mac/Linux) and Navigate to the project folder**  
    Use the `cd` (change directory) command to go to the folder where your project files are.
 
 
-5. **Install dependencies**  
+4. **Install dependencies**  
    Run this command to install all necessary Python packages:
 
    ```bash
    pip install -r requirements.txt
-6. **Install dependencies**  
+5. **Install dependencies**  
    Start the bot by running:
+   ```bash
    python main.py
 
 
