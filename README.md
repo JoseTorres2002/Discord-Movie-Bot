@@ -32,7 +32,7 @@ Before running the bot, you will need to create two tokens:
 #### 3. Create a `.env` File
 In the project folder, create a file named `.env` and add:
 
-#### 4. Run the Bot
+##### 4. Run the Bot
 ```bash
 pip install -r requirements.txt
 python main.py
