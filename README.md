@@ -39,8 +39,7 @@ Before running the bot, you will need to create two tokens:
    TMDB_API_KEY=your_tmdb_api_key_here
 
 3. **Open Command Prompt (Windows) or Terminal (Mac/Linux)**  
-   - On **Windows**: Press `Win + R`, type `cmd`, and press Enter.  
-   - On **Mac**: Open Spotlight (`Cmd + Space`), type `Terminal`, and press Enter.
+   
 
 4. **Navigate to the project folder**  
    Use the `cd` (change directory) command to go to the folder where your project files are.
