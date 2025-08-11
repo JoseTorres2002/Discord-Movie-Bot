@@ -29,10 +29,27 @@ Before running the bot, you will need to create two tokens:
 
 ---
 
-#### 3. Create a `.env` File
-In the project folder, create a file named `.env` and add:
-
 ##### 4. Run the Bot
-```bash
-pip install -r requirements.txt
-python main.py
+1. **Download and unzip the project folder**  
+   If you downloaded the project as a ZIP from GitHub, unzip it to a folder on your computer, for example, `MovieBot`.
+
+2. **In the project folder, create a file named `.env` and add
+replacing the placeholders with your actual tokens:**  
+
+```env
+DISCORD_TOKEN=your_discord_bot_token_here
+TMDB_API_KEY=your_tmdb_api_key_here
+
+3. **Open Command Prompt (Windows) or Terminal (Mac/Linux)**  
+   - On **Windows**: Press `Win + R`, type `cmd`, and press Enter.  
+   - On **Mac**: Open Spotlight (`Cmd + Space`), type `Terminal`, and press Enter.
+
+4. **Navigate to the project folder**  
+   Use the `cd` (change directory) command to go to the folder where your project files are.
+
+
+5. **Install dependencies**  
+   Run this command to install all necessary Python packages:
+
+   ```bash
+   pip install -r requirements.txt
