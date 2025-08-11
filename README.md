@@ -47,7 +47,7 @@ Before running the bot, you will need to create two tokens:
 
    ```bash
    pip install -r requirements.txt
-5. **Install dependencies**  
+5. **Start the bot**  
    Start the bot by running:
    ```bash
    python main.py
