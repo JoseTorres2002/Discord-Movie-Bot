@@ -14,8 +14,8 @@ Before running the bot, you will need to create two tokens:
 #### 1. Create a Discord Bot Token
 1. Go to the [Discord Developer Portal](https://discord.com/developers/applications).
 2. Click **"New Application"** and give it a name (e.g., `MovieKnight`).
-3. Go to the **"Bot"** tab on the left.
-4. Click **"Add Bot"** and confirm.
+3. Click **"Add Bot"** and confirm.
+4. Go to the **"Bot"** tab on the left.
 5. Under **"TOKEN"**, click **"Reset Token"** and copy it.  
    ⚠️ **Do not share this token** — anyone with it can control your bot.
 
