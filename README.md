@@ -15,11 +15,14 @@ Before running the bot, you will need to create two tokens:
 1. Go to the [Discord Developer Portal](https://discord.com/developers/applications).
 2. Click **"New Application"** and give it a name (e.g., `MovieKnight`).
 3. Click **"Add Bot"** and confirm.
-4. Go to the **"Bot"** tab on the left.
-5. Under **"TOKEN"**, click **"Reset Token"** and copy it.
-6. wewe
-7. ewew
-   ⚠️ **Do not share this token** — anyone with it can control your bot.
+4. Go to the **"OAuth2"** tab on the left.
+5. Under **"Scopes"**, click **"Bot"**.
+6. Add the following permissions:Send Messages
+Read Message History
+Embed Links
+Use Slash Commands
+Attach Files
+7. Scroll down and copy the generated URL to add to server
 
 ---
 
