@@ -17,7 +17,7 @@ Before running the bot, you will need to create two tokens:
 3. Click **"Add Bot"** and confirm.
 4. Go to the **"OAuth2"** tab on the left.
 5. Under **"Scopes"**, click **"Bot"**.
-6. Add the following permissions:Send Messages
+6. Add the following permissions: Send Messages
 Read Message History
 Embed Links
 Use Slash Commands
